@@ -7,24 +7,24 @@
 */
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['2348187637779']
-global.ownMain = '2348187637779'
-global.NamaOwner = 'Es Teams Tech' //gausah diganti
-global.sessionName = 'sessionnya'
+global.owner = ['2348104400066']
+global.ownMain = '2348104400066'
+global.NamaOwner = 'Joshua' //gausah diganti
+global.sessionName = 'Josh'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
-global.namabot = 'S҉ T҉ I҉ N҉ G҉ E҉ R҉- V҉ 3҉🩸' //ganti aj klo mau
-global.author = 'Es Teams Tech' //ganti aj klo mau
-global.packname = 'S҉ T҉ I҉ N҉ G҉ E҉ R҉- V҉ 3҉🩸' //ganti aj klo mau
-global.url1 = 'https://whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y' //gausah diganti
-global.url2 = 'https://whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y' //gausah diganti
-global.linkgc = 'https://whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y'
+global.namabot = 'Josh BOT🩸' //ganti aj klo mau
+global.author = 'Joshua' //ganti aj klo mau
+global.packname = 'Josh BOT🩸' //ganti aj klo mau
+global.url1 = '' //gausah diganti
+global.url2 = '' //gausah diganti
+global.linkgc = ''
 global.delayjpm = 3500
 
 global.mess = { // Custom Sesuka Lu
 ingroup: 'Stinger V3  can only be used in groups.',
 admin: 'Stinger V3 is specifically for group admins.',
 notadmin: "Stinger V3 must be an admin first",
-owner: 'You are not Es Teams .',
+owner: 'You are not Joshua .',
 premium: 'You are not a premium user.',
 seller: 'This feature can only be used by resellers and owners.',
 usingsetpp: `Setpp can only be used by the owner, do you think I'm stupid?`,
