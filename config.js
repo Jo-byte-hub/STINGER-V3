@@ -15,9 +15,9 @@ global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
 global.namabot = 'Josh BOT🩸' //ganti aj klo mau
 global.author = 'Joshua' //ganti aj klo mau
 global.packname = 'Josh BOT🩸' //ganti aj klo mau
-global.url1 = '' //gausah diganti
-global.url2 = '' //gausah diganti
-global.linkgc = ''
+global.url1 = 'https://chat.whatsapp.com/DwKlSK4yv2DKU4Bg9RJFKU' //gausah diganti
+global.url2 = 'https://chat.whatsapp.com/DwKlSK4yv2DKU4Bg9RJFKU' //gausah diganti
+global.linkgc = 'https://chat.whatsapp.com/DwKlSK4yv2DKU4Bg9RJFKU'
 global.delayjpm = 3500
 
 global.mess = { // Custom Sesuka Lu
